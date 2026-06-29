@@ -1,5 +1,3 @@
-# log-plus-ai
-Built on a rock-solid data foundation using AWS DynamoDB, it handles high-throughput stream ingestion with ease, while the Vercel v0-designed frontend guarantees lightning-fast user response times during critical system outages
 # LogPulse AI
 
 LogPulse AI is a real-time, B2B log monitoring and automated anomaly diagnosis platform built for DevOps teams. Instead of spending hours digging through text-heavy cloud logs during an active production incident, LogPulse AI structures, categorizes, and uses AI to instantly diagnose log errors, providing a root-cause analysis and actionable fix recommendations in seconds. Built on a rock-solid data foundation using AWS DynamoDB, it handles high-throughput stream ingestion with ease, while the Vercel v0-designed frontend guarantees lightning-fast user response times during critical system outages.
