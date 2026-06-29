@@ -1,0 +1,4 @@
+node_modules
+git add .
+git commit -m "feat: implement full-stack Next.js logging infrastructure with DynamoDB SDK"
+git push origin main
